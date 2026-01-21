@@ -1,0 +1,8 @@
+{
+  "name": "Prompt Intelligence",
+  "description": "A high-performance training platform and AI-powered analyzer for professional prompt engineering, designed to help you build production-ready applications.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
